@@ -1,4 +1,4 @@
-'''These Bylaws Have Been Formally Adopted and are Currently Applicable as of September 24, 2023. Please Don't Make Changes to the Body of the canonical Bylaws. At All Times Please Refer [https://wiki.hacklab.to/Bylaws Here] for the Canonical Revision. Please make proposed changes on branches of your personal repository and submit pull requests for consideration at a meeting.'''
+'''These Bylaws Have Been Formally Adopted and are Currently Applicable as of November 30, 2025. Please Don't Make Changes to the Body of the canonical Bylaws. At All Times Please Refer [https://wiki.hacklab.to/Bylaws Here] for the Canonical Revision. Please make proposed changes on branches of your personal repository and submit pull requests for consideration at a meeting.'''
 
 [[BylawsReferencesAndLinks]]
 = Official Bylaws =
